@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eric-Miao
-- 👀 I’m interested in Data Science / ML
-- 🌱 I’m currently a Master student of Development Engineering program at UCB
+- 👀 Working on Deep Learning/LLM application 
+- 🌱 Master of Development Engineering at UCB, Bachelor of Computer Science from ShanghaiTech
 - 💞️ I’m looking to collaborate on All kinds of data science projects.
 - 📫 Email: yuxin_miao@berkeley.edu
 
