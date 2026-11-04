@@ -1,7 +1,12 @@
 - 👋 Hi, I’m @Eric-Miao
-- 👀 Working on Deep Learning/LLM application 
+- 💼 Data Scientist @Roche 
+- 👀 Working on
+  - AI application End2End delivery
+  - Enterprise AI adoption solutions
+  - HFRL
+  - Traditional ML and Statistics (Yes I still love the SVM and hypothesis testing in this AI era) 
 - 🌱 Master of Development Engineering at UCB, Bachelor of Computer Science from ShanghaiTech
-- 💞️ I’m looking to collaborate on All kinds of data science projects.
+- 💞️ I’m looking to collaborate on All kinds of AIML/DS projects.
 - 📫 Email: yuxin_miao@berkeley.edu
 
 <!---
