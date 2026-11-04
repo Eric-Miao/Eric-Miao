@@ -7,7 +7,7 @@
   - Traditional ML and Statistics (Yes I still love the SVM and hypothesis testing in this AI era) 
 - 🌱 Master of Development Engineering at UCB, Bachelor of Computer Science from ShanghaiTech
 - 💞️ I’m looking to collaborate on All kinds of AIML/DS projects.
-- 📫 Email: yuxin_miao@berkeley.edu
+- 📫 Email: cnyt-eric@hotmail.com
 
 <!---
 Eric-Miao/Eric-Miao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
